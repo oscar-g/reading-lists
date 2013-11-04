@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Oscar subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="webdev Blogs" title="webdev Blogs">
+            <outline type="rss" text="daverupert.com" title="daverupert.com" xmlUrl="http://daverupert.com/atom.xml" htmlUrl="http://daverupert.com/"/>
+            <outline type="rss" text="Nettuts+" title="Nettuts+" xmlUrl="http://feeds.feedburner.com/nettuts" htmlUrl="http://net.tutsplus.com"/>
+            <outline type="rss" text="Adventures in JavaScript Development" title="Adventures in JavaScript Development" xmlUrl="http://rmurphey.com/atom.xml" htmlUrl="http://rmurphey.com/"/>
+            <outline type="rss" text="CSS Wizardry" title="CSS Wizardry" xmlUrl="http://feeds.feedburner.com/csswizardrycom" htmlUrl="http://csswizardry.com/"/>
+            <outline type="rss" text="The Amazing Web" title="The Amazing Web" xmlUrl="http://theamazingweb.net/feed/" htmlUrl="http://theamazingweb.net"/>
+            <outline type="rss" text="Bricss" title="Bricss" xmlUrl="http://bricss.net/rss" htmlUrl="http://bricss.net/"/>
+            <outline type="rss" text="Tab Completion" title="Tab Completion" xmlUrl="http://www.xanthir.com/blog/atom/" htmlUrl="http://www.xanthir.com/blog/"/>
+            <outline type="rss" text="HTML5 Doctor" title="HTML5 Doctor" xmlUrl="http://feeds2.feedburner.com/html5doctor" htmlUrl="http://html5doctor.com"/>
+            <outline type="rss" text="Web Platform Blog" title="Web Platform Blog" xmlUrl="http://blog.webplatform.org/feed/" htmlUrl="http://blog.webplatform.org"/>
+            <outline type="rss" text="24 ways" title="24 ways" xmlUrl="http://feeds.feedburner.com/24ways" htmlUrl="http://24ways.org/"/>
+            <outline type="rss" text="NCZOnline" title="NCZOnline" xmlUrl="http://feeds.feedburner.com/nczonline" htmlUrl="http://www.nczonline.net/blog"/>
+            <outline type="rss" text="The CSS Ninja" title="The CSS Ninja" xmlUrl="http://www.thecssninja.com/feed" htmlUrl="http://www.thecssninja.com"/>
+            <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="http://css-tricks.com"/>
+            <outline type="rss" text="CoDrops" title="CoDrops" xmlUrl="http://feeds2.feedburner.com/tympanus" htmlUrl="http://tympanus.net/codrops"/>
+            <outline type="rss" text="Paul Irish" title="Paul Irish" xmlUrl="http://feeds.feedburner.com/paul-irish" htmlUrl="http://paulirish.com/"/>
+            <outline type="rss" text="zomigi.com" title="zomigi.com" xmlUrl="http://zomigi.com/feed/" htmlUrl="http://zomigi.com"/>
+            <outline type="rss" text="Stubbornella" title="Stubbornella" xmlUrl="http://www.stubbornella.org/content/feed/" htmlUrl="http://www.stubbornella.org/content"/>
+            <outline type="rss" text="The Industry" title="The Industry" xmlUrl="http://theindustry.cc/feed/" htmlUrl="http://theindustry.cc"/>
+            <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="http://www.smashingmagazine.com"/>
+            <outline type="rss" text="Christian Heilmann" title="Christian Heilmann" xmlUrl="http://www.wait-till-i.com/wp-atom.php" htmlUrl="http://christianheilmann.com"/>
+            <outline type="rss" text="Cognition by Happy Cog" title="Cognition by Happy Cog" xmlUrl="http://feeds.feedburner.com/cognitionfeed" htmlUrl="http://cognition.happycog.com/feed"/>
+        </outline>
+        <outline text="webdev Podcasts and Newsletters" title="webdev Podcasts and Newsletters">
+            <outline type="rss" text="ShopTalk" title="ShopTalk" xmlUrl="http://shoptalkshow.com/feed/podcast/" htmlUrl="http://shoptalkshow.com"/>
+            <outline type="rss" text="Responsive Design Weekly" title="Responsive Design Weekly" xmlUrl="http://responsivedesignweekly.com/feed/" htmlUrl="http://responsivedesignweekly.com"/>
+            <outline type="rss" text="CSS Weekly" title="CSS Weekly" xmlUrl="http://feeds.feedburner.com/CSS-Weekly" htmlUrl="http://css-weekly.com"/>
+            <outline type="rss" text="JavaScript Weekly Archive Feed" title="JavaScript Weekly Archive Feed" xmlUrl="http://us1.campaign-archive.com/feed?u=0618f6a79d6bb9675f313ceb2&amp;id=596bcf37c5" htmlUrl="http://us1.campaign-archive.com/feed?u=0618f6a79d6bb9675f313ceb2&amp;id=596bcf37c5"/>
+            <outline type="rss" text="The Web Ahead" title="The Web Ahead" xmlUrl="http://feeds.5by5.tv/webahead" htmlUrl="http://5by5.tv/webahead"/>
+            <outline type="rss" text="The East Wing" title="The East Wing" xmlUrl="http://feeds.feedburner.com/eastwingpodcast" htmlUrl="http://theeastwing.net"/>
+            <outline type="rss" text="The Non Breaking Space Show" title="The Non Breaking Space Show" xmlUrl="http://feeds.feedburner.com/nbsp-new" htmlUrl="http://nonbreakingspace.tv"/>
+            <outline type="rss" text="Web Design Weekly" title="Web Design Weekly" xmlUrl="http://feeds.feedburner.com/webdesignweekly" htmlUrl="http://web-design-weekly.com"/>
+            <outline type="rss" text="HTML5 Weekly Archive Feed" title="HTML5 Weekly Archive Feed" xmlUrl="http://us1.campaign-archive.com/feed?u=0618f6a79d6bb9675f313ceb2&amp;id=07e1174dde" htmlUrl="http://us1.campaign-archive.com/feed?u=0618f6a79d6bb9675f313ceb2&amp;id=07e1174dde"/>
+            <outline type="rss" text="This Developer's Life" title="This Developer's Life" xmlUrl="http://feeds.feedburner.com/ThisDevelopersLife" htmlUrl="http://thisdeveloperslife.com"/>
+        </outline>
+    </body>
+</opml>
